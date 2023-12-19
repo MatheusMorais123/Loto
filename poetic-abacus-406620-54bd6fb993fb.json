@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "poetic-abacus-406620",
+  "private_key_id": "54bd6fb993fbcc4ae3e72a9e1881aebfc58fc961",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC35PJJd+efDAQD\niOaUeYm2HLllhmwFFkupKnMIIiR5ufnU9B3+PDl5EpHmupbTpw55N0y5AvtJBlms\nBzYRPTGxL/8cBtM6Qm9UJv1/gL5/X6EROaBriJWWQKVcYkyjwLwYT/n6Z9rJU1t1\n6Hx/YFI3UaIg0Xb+LqIldLjAePSL36r7JFKHl3hsLn4cokm1kXONoT0rHn1AQzIq\n306F2mPt7cCQpVK/iAMnn8Spt1ufDHwtpPosQ9Ssr+1p6CE1Id8GeBGXzsT6x10t\nRk8EGC7A4gBIaAs+45AjYOtEeItQbIQdo7LI52cwkc9/ADvXXuSY2ymGNbGss6vn\nRJDSocrLAgMBAAECggEAALTHXWgxd9c4Tg8rhixv+Ua49jPYRwNj56gQaFqWi0Uf\nOXsf1lxtgr0t2ZX5LaI5mFY8XDAvvi22ZcZipcRMuY0hTKlAtxDkPo17xw6RLLS1\no0xLr74G3Qct22H2lgu6bS7OxfBk0wXClyb9ELwnn1YX6kpY9kxANnvxQwPz5HRG\nFRBT4whU9/9ZvdHzOyFn+DdqqczS5imoZ6v7cn+QNawdLw1/tu8fobZJtJmvd7WN\n75pSYYKc2kbwsYOz1NfOjEc2/dKtBr3KoYbGq5bvu9QNRiw7y0RsT8foV4fc+Gdt\nUETDB4rNTEIMWNRTt6dlWs7d3h0+koH8wkucGCBSwQKBgQD0/cdiMC0OApWgCVo3\nU/Kt1KFyKeD2B2X5cGk7wLGh4siy82gZ3X7P94jhsdzJo46Y8PsMR1cimiM2XCXP\nMhQxYn8OngpSfPBKxNOpqSKstKOBqHSaQLFWksLVwOre1o/w/Coft1Y4gzrJwIOc\nqvATWlb51/k+KIdseNiCqmtF4QKBgQDAKFjrkSyz/s2wd0hb4M12bKdq06Xt+ZG1\ngsxqcLgk0CfpgL2g4IFVmfY//OGfJNYRh6z/W5tJwAbPrsFKVie6cFX7ekZ3JzkG\nN4vgUjQ/JpIkM/LMCHySMcsOSV0EBiw0f//iGjcm0UTGdkG+ugzRCWVSSRQU0/a9\n9P9+qKLOKwKBgH7om4lMhXpVcmbVkWtJzFOp6vv1n7gy+ustBQZT+nBuxyKUHmAP\nsipPAxRPC51UYYDujE2/Au9Ew2rcbyWWvokaidDro1M5r0w8C50+pVyrsmtu9QAW\n9QZwvgb2iXRn12axaazGTx61NBXg6QyWLAkKajXAYDeHzScurpF5cFphAoGAVvns\nRbQQZ+iNcbKMLgoy9cd4gAIMuQqdyWrK2+LpdsBBUI/VRVxZLkXiEFSGS2KBAq5G\nv87XGyqv6pFPLDaTBPCT+p/+BTDbvtSlm4OZ4nuy6nAZFgFBYWroXi8WyxuAJsNJ\nLy5uiENwveQJHitYYcW+9t/dFxBaPuEGRG5QQsECgYB6rNFB6LIo+qzaO/4A1AD/\nf9+h/56FWOrN8i9A1Jkbk6ra2cynITpMYe9tak8W+6vL3AXbJpoR9eMbIGHds25O\nEKzD9/22rcBhUJCY2TgXU20X/wi0B5Afyy0J4zFSkjWQdoJtRFH/UQkWeGNW4C7l\nhjlrouq2eRi+5NMSssOzTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aplicativo-loto-3@poetic-abacus-406620.iam.gserviceaccount.com",
+  "client_id": "101519091923329837912",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aplicativo-loto-3%40poetic-abacus-406620.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
